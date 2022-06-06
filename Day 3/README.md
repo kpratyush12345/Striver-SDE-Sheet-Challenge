@@ -1,0 +1,8 @@
+| Problem | YT | Problem Link 1 | Problem Link 2 |
+| :--- | :---: | :---: | ---: |
+| Search in a 2d Matrix | [YT](https://youtu.be/ZYpYur0znng) |	[Link 1](https://www.codingninjas.com/codestudio/problems/980531?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/search-a-2d-matrix/) |
+| Pow(X,n) | [YT](https://youtu.be/l0YC3876qxg) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1082146?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/powx-n/) |
+| Majority Element (>N/2 times) | [YT](https://youtu.be/AoX3BPWNnoE) |	[Link 1](https://www.codingninjas.com/codestudio/problems/842495?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/majority-element/) |
+| Majority Element (>N/3 times) | [YT](https://youtu.be/yDbkQd9t2ig) |	[Link 1](https://www.codingninjas.com/codestudio/problems/893027?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/majority-element-ii/) |
+| Grid Unique Paths | [YT](https://youtu.be/t_f0nwwdg5o) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1081470?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/unique-paths/) |
+| Reverse Pairs | [YT](https://youtu.be/S6rsAlj_iB4) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1112652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/reverse-pairs/) |
