@@ -1,0 +1,8 @@
+| Problem | YT | Problem Link 1 | Problem Link 2 |
+| :--- | :---: | :---: | ---: |
+| 2-Sum-Problem | [YT](https://youtu.be/dRUpbt8vHpo) |	[Link 1](https://www.codingninjas.com/codestudio/problems/pair-sum_697295?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/two-sum/) |
+| 4-sum-Problem | [YT](https://youtu.be/4ggF3tXIAp0) |	[Link 1](https://www.codingninjas.com/codestudio/problems/983605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/4sum/) |
+| Longest Consecutive Sequence | [YT](https://youtu.be/qgizvmgeyUM) |	[Link 1](https://www.codingninjas.com/codestudio/problems/759408?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| Largest Subarray with 0 sum | [YT](https://youtu.be/xmguZ6GbatA) |	[Link 1](https://www.codingninjas.com/codestudio/problems/920321?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) |
+| Count number of subarrays with given Xor K | [YT](https://youtu.be/lO9R5CaGRPY) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://www.interviewbit.com/problems/subarray-with-given-xor/) |
+| Longest Substring without repeat | [YT](https://youtu.be/qtVh-XEpsJo) |	[Link 1](https://www.codingninjas.com/codestudio/problems/630418?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
