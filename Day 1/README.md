@@ -1,5 +1,5 @@
 | Problem | YT | Problem Link 1 | Problem Link 2 |
-| :--- | :---: | :---: | ---: |
+| :--- | :---: | :---: | :---: |
 | Set Matrix Zeroes | [YT](https://youtu.be/M65xBewcqcI) |	Link 1 | [Link 2](https://leetcode.com/problems/set-matrix-zeroes/) |
 | Pascal’s Triangle | [YT](https://youtu.be/6FLvhQjZqvM) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/pascals-triangle/) |
 | Next Permutation | [YT](https://youtu.be/LuLCLgMElus) |	[Link 1](https://www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/next-permutation/) |
