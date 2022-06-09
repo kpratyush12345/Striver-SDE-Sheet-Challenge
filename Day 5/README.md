@@ -1,5 +1,5 @@
 | Problem | YT | Problem Link 1 | Problem Link 2 |
-| :--- | :---: | :---: | ---: |
+| :---- | :----: | :----: | ----: |
 | Reverse a LinkedList | [YT](https://youtu.be/iRtLEoL-r-g) |	[Link 1](https://www.codingninjas.com/codestudio/problems/799897?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/reverse-linked-list/) |
 | Find the middle of LinkedList | [YT](https://youtu.be/sGdwSH8RK-o) |	[Link 1](https://www.codingninjas.com/codestudio/problems/973250?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | Merge two sorted Linked List | [YT](https://youtu.be/Xb4slcp1U38) |	[Link 1](https://www.codingninjas.com/codestudio/problems/800332?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/merge-two-sorted-lists/) |
