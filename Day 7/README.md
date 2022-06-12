@@ -1,0 +1,8 @@
+| Problem | YT | Problem Link 1 | Problem Link 2 |
+| :--- | :---: | :---: | :---: |
+| Rotate a LinkedList | [YT](https://youtu.be/9VPm6nEbVPA) |	[Link 1](https://www.codingninjas.com/codestudio/problems/920454?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/rotate-list/) |
+| Clone a Linked List with random and next pointer | [YT](https://youtu.be/VNf6VynfpdM) |	[Link 1](https://www.codingninjas.com/codestudio/problems/873376?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+| 3 sum | [YT](https://youtu.be/onLoX6Nhvmg) |	[Link 1](https://www.codingninjas.com/codestudio/problems/893028?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/3sum/) |
+| Trapping rainwater | [YT](https://youtu.be/m18Hntz4go8) |	[Link 1](https://www.codingninjas.com/codestudio/problems/630519?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/trapping-rain-water/) |
+| Remove Duplicate from Sorted array | [YT](https://youtu.be/Fm_p9lJ4Z_8) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1102307?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Max consecutive ones | [YT](https://youtu.be/Mo33MjjMlyA) |	[Link 1](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems) | [Link 2](https://leetcode.com/problems/max-consecutive-ones/) |
