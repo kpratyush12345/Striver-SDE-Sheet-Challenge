@@ -1,0 +1,8 @@
+| Problem | YT | Problem Link 1 | Problem Link 2 |
+| :--- | :---: | :---: | ---: |
+| Subset Sums | [YT](https://youtu.be/rYkfBRtMJr8) |	[Link 1](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) |
+| Subset-II | [YT](https://youtu.be/RIn3gOkbhQE) |	[Link 1](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/subsets-ii/) |
+| Combination sum-1 | [YT](https://youtu.be/OyZFFqQtu98) |	[Link 1](https://www.codingninjas.com/codestudio/problems/759331?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/combination-sum/) |
+| Combination sum-2 | [YT](https://youtu.be/G1fRTGRxXU8) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1112622?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/combination-sum-ii/) |
+| Palindrome Partitioning | [YT](https://youtu.be/WBgsABoClE0) |	[Link 1](https://www.codingninjas.com/codestudio/problems/799931?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/palindrome-partitioning/) |
+| K-th permutation Sequence | [YT](https://youtu.be/wT7gcXLYoao) |	[Link 1](https://www.codingninjas.com/codestudio/problems/1112626?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Link 2](https://leetcode.com/problems/permutation-sequence/) |
